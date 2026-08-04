@@ -17,5 +17,5 @@ https://www.gingerbeardman.com/apps/dottie/
 
 If in doubt, [get in touch](https://www.gingerbeardman.com/apps/support/)!
 
-Have fun,
+Have fun,  
 matt
