@@ -1,6 +1,6 @@
 # Dottie Tracker
 
-Issue tracker for Dottie, the pixel art app (macOS)
+Issue tracker for Dottie, the pixel art app for macOS
 
 https://www.gingerbeardman.com/apps/dottie/
 
