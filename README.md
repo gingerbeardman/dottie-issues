@@ -11,7 +11,7 @@ https://www.gingerbeardman.com/apps/dottie/
 
 ## Known issues
 
-- This is the [list of issues](https://github.com/gingerbeardman/dottie-issues/issues)
+- This is simply the [list of open issues](https://github.com/gingerbeardman/dottie-issues/issues)
 
 ## Anything else
 
