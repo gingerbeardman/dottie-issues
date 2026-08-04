@@ -1,5 +1,8 @@
-# dottie-issues
-Issues for Dottie pixel art app (macOS)
+# Dottie Tracker
+
+Issue tracker for Dottie, the pixel art app (macOS)
+
+https://www.gingerbeardman.com/apps/dottie/
 
 ## How to get involved
 
