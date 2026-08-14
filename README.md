@@ -17,7 +17,7 @@ https://www.gingerbeardman.com/apps/dottie/
 
 I'll try to keep these up-to-date but there are no promises!
 
-- Check [milestones]([url](https://github.com/gingerbeardman/dottie-issues/milestones))
+- Check [milestones](https://github.com/gingerbeardman/dottie-issues/milestones)
 
 ## Anything else
 
