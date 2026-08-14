@@ -13,6 +13,12 @@ https://www.gingerbeardman.com/apps/dottie/
 
 - This is simply the [list of open issues](https://github.com/gingerbeardman/dottie-issues/issues)
 
+## Roadmap
+
+I'll try to keep these up-to-date but there are no promises!
+
+- Check [milestones]([url](https://github.com/gingerbeardman/dottie-issues/milestones))
+
 ## Anything else
 
 If in doubt, [get in touch](https://www.gingerbeardman.com/apps/support/)!
